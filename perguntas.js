@@ -1,5 +1,5 @@
 criaCartao(
-    categoria,
+    'Programação',
     pergunta,
     resposta
 )
