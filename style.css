@@ -20,6 +20,7 @@ body {
 .cartao__conteudo h3 {
     background-color: tomato;
     text-align: left;
+    padding: 0.5rem;
 }
 footer {
     background-color: black;
