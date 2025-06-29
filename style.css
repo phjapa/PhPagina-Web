@@ -15,6 +15,7 @@ body {
 .cartao__conteudo {
     text-align: center;
     background-color: aquamarine;
+    height: 100%;
 }
 footer {
     background-color: black;
