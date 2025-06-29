@@ -10,9 +10,9 @@ body {
 }
 
 #container {
-    display: flex; 
+    display: flex;
+    flex-wrap: wrap;
 }
-
 .cartao {
     margin: 1rem 1rem;
     height: 20rem;
