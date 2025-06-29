@@ -75,9 +75,8 @@ body {
 
 .cartao__conteudo__resposta{
     transform: rotateY(180deg);
-    background-color: var(--card-back-color);
+    background-color: rdba(0, 244, 191, 1);
 }
-
 
 
 
