@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    pergunta,
-    resposta
+    'O que é JavaScript?',
+    'O JavaScript é uma linguagem de programação'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
