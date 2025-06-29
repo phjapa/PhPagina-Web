@@ -1,3 +1,3 @@
 function criaCartao(categoria, pergunta, resposta) {
-    let container 
+        let container = document.getElementById('container')
 }
